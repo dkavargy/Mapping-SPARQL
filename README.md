@@ -21,13 +21,13 @@ The program will utilize RML (RDF Mapping Language) to define the mapping rules 
 
 ### start GraphDB:
 
-    Execute the following command to start GraphDB:
+  *  Execute the following command to start GraphDB:
     
 ```bash
 ./bin/graphdb
 
 ```
     
-    GraphDB will start running and can be accessed through a web browser at ** http://localhost:7200.**
+  *  GraphDB will start running and can be accessed through a web browser at ** http://localhost:7200.**
 
 
